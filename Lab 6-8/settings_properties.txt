@@ -1,0 +1,4 @@
+repository = text file repository
+persons = 'persons_file.txt'
+activities = 'activities_file.txt'
+ui = 'gui'

@@ -1,0 +1,12 @@
+400,jack,444
+111,marie,0333
+2708,Carmen Ionescu,076266170
+4551,Ion Dumitrescu,073812998
+4806,Dan Vasile,073990088
+5231,Constantin Popescu,072327011
+6575,Maria Vasile,075232039
+5702,Mihai Dumitrescu,072255777
+9714,Olga Enescu,076893898
+2459,Maria Ionescu,072881788
+4125,Olga Manole,079667332
+7894,Maria Lazar,075723781
